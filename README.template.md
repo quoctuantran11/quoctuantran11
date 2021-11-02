@@ -7,16 +7,11 @@
 
 ### Programming Languages
 [](./assets/javascript.png)
-
-![](./assets/react2.png)
-
-![](./assets/nodejs.png)
-
-![](./assets/mongo.png)
-
-![](./assets/terminal.png)
-
-![](./assets/git.png)
+!![](./assets/react2.png)
+!![](./assets/nodejs.png)
+!![](./assets/mongo.png)
+!![](./assets/terminal.png)
+!![](./assets/git.png)
 
 ### Contact me via
 [![Facebook Badge](./assets/fb.png)](https://www.facebook.com/tuantq2000)
