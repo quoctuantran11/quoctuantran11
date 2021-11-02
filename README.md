@@ -6,15 +6,15 @@
 - 📫 How to reach me: tuantq2kdl@gmail.com
 
 ### Programming Languages
-[](./assets/javascript.png)
-!![](./assets/react2.png)
-!![](./assets/nodejs.png)
-!![](./assets/mongo.png)
-!![](./assets/terminal.png)
-!![](./assets/git.png)
+[](./assets/javascript.png)  
+![](./assets/react2.png)  
+![](./assets/nodejs.png)  
+![](./assets/mongo.png)  
+![](./assets/terminal.png)  
+![](./assets/git.png)  
 
 ### Contact me via
-[![Facebook Badge](./assets/fb.png)](https://www.facebook.com/tuantq2000)
+[![Facebook Badge](./assets/fb.png)](https://www.facebook.com/tuantq2000)  
 [![LinkedIn Badge](./assets/linkedin.png)](https://www.linkedin.com/in/tranquoctuan-frontenddev/)
 
 :tada: Github Stats
