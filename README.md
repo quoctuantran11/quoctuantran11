@@ -1,4 +1,4 @@
-# Hi there. Welcome to my profile 👋
+# Hi there 👋
 
 ### :boy: Some details about myself
 
