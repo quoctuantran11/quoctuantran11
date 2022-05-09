@@ -15,7 +15,7 @@
 
 ### Contact me via
 [![Facebook Badge](./assets/fb.png)](https://www.facebook.com/tuantq2000) 
-[![LinkedIn Badge](./assets/linkedin.png)](https://www.linkedin.com/in/tranquoctuan-frontenddev/)
+[![LinkedIn Badge](./assets/linkedin.png)](https://www.linkedin.com/in/quoctuantran11/)
 
 :tada: Github Stats
 
